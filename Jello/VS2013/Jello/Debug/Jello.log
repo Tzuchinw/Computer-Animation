@@ -1,0 +1,36 @@
+﻿Build started 2015/4/7 下午 06:51:29.
+     1>Project "D:\DC\Github\Computer-Animation\Jello\VS2013\Jello\Jello.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _CRT_SECURE_NO_WARNINGS /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt input.cpp jello.cpp performanceCounter.cpp physics.cpp pic.cpp ppm.cpp showCube.cpp Source.cpp
+         Source.cpp
+         showCube.cpp
+         ppm.cpp
+         pic.cpp
+     1>d:\dc\github\computer-animation\jello\vs2013\jello\pic.cpp(53): warning C4101: 'i' : unreferenced local variable
+     1>d:\dc\github\computer-animation\jello\vs2013\jello\pic.cpp(52): warning C4101: 'byte' : unreferenced local variable
+         physics.cpp
+         performanceCounter.cpp
+         jello.cpp
+     1>d:\dc\github\computer-animation\jello\vs2013\jello\jello.cpp(50): warning C4101: 'i' : unreferenced local variable
+     1>d:\dc\github\computer-animation\jello\vs2013\jello\jello.cpp(87): warning C4101: 'i' : unreferenced local variable
+     1>d:\dc\github\computer-animation\jello\vs2013\jello\jello.cpp(87): warning C4101: 'lenghOfState' : unreferenced local variable
+         input.cpp
+         Generating Code...
+     1>d:\dc\github\computer-animation\jello\vs2013\jello\pic.cpp(109): warning C4715: 'pic_get_size' : not all control paths return a value
+     1>d:\dc\github\computer-animation\jello\vs2013\jello\pic.cpp(163): warning C4715: 'pic_write' : not all control paths return a value
+     1>d:\dc\github\computer-animation\jello\vs2013\jello\pic.cpp(137): warning C4715: 'pic_read' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DC\Github\Computer-Animation\Jello\VS2013\Debug\Jello.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\DC\Github\Computer-Animation\Jello\VS2013\Debug\Jello.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DC\Github\Computer-Animation\Jello\VS2013\Debug\Jello.lib" /MACHINE:X86 Debug\input.obj
+         Debug\jello.obj
+         Debug\performanceCounter.obj
+         Debug\physics.obj
+         Debug\pic.obj
+         Debug\ppm.obj
+         Debug\showCube.obj
+         Debug\Source.obj
+         Jello.vcxproj -> D:\DC\Github\Computer-Animation\Jello\VS2013\Debug\Jello.exe
+     1>Done Building Project "D:\DC\Github\Computer-Animation\Jello\VS2013\Jello\Jello.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.03

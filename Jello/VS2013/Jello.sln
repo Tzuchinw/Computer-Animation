@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Jello", "Jello\Jello.vcxproj", "{D08CBB91-5BC5-404D-ACF5-0E5A44EA2312}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreateWorld", "CreateWorld\CreateWorld.vcxproj", "{49749FD7-7796-420F-9D2A-9143921F4EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08CBB91-5BC5-404D-ACF5-0E5A44EA2312}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D08CBB91-5BC5-404D-ACF5-0E5A44EA2312}.Debug|Win32.Build.0 = Debug|Win32
+		{D08CBB91-5BC5-404D-ACF5-0E5A44EA2312}.Release|Win32.ActiveCfg = Release|Win32
+		{D08CBB91-5BC5-404D-ACF5-0E5A44EA2312}.Release|Win32.Build.0 = Release|Win32
+		{49749FD7-7796-420F-9D2A-9143921F4EFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49749FD7-7796-420F-9D2A-9143921F4EFA}.Debug|Win32.Build.0 = Debug|Win32
+		{49749FD7-7796-420F-9D2A-9143921F4EFA}.Release|Win32.ActiveCfg = Release|Win32
+		{49749FD7-7796-420F-9D2A-9143921F4EFA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

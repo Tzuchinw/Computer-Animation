@@ -1,0 +1,30 @@
+﻿Build started 2015/4/7 下午 09:12:28.
+     1>Project "D:\DC\Github\Computer-Animation\Motion Capture Interpolation\IDE-starter\VS2010\interpolate\interpolate.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\mocapPlayer-starter\interpolate.cpp" "..\..\..\mocapPlayer-starter\interpolator.cpp" "..\..\..\mocapPlayer-starter\motion.cpp" "..\..\..\mocapPlayer-starter\performanceCounter.cpp" "..\..\..\mocapPlayer-starter\posture.cpp" "..\..\..\mocapPlayer-starter\quaternion.cpp" "..\..\..\mocapPlayer-starter\skeleton.cpp" "..\..\..\mocapPlayer-starter\transform.cpp" "..\..\..\mocapPlayer-starter\vector.cpp"
+         vector.cpp
+         transform.cpp
+         skeleton.cpp
+         quaternion.cpp
+         posture.cpp
+         performanceCounter.cpp
+         motion.cpp
+         interpolator.cpp
+         interpolate.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DC\Github\Computer-Animation\Motion Capture Interpolation\IDE-starter\VS2010\Debug\interpolate.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\DC\Github\Computer-Animation\Motion Capture Interpolation\IDE-starter\VS2010\Debug\interpolate.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DC\Github\Computer-Animation\Motion Capture Interpolation\IDE-starter\VS2010\Debug\interpolate.lib" /MACHINE:X86 Debug\interpolate.obj
+         Debug\interpolator.obj
+         Debug\motion.obj
+         Debug\performanceCounter.obj
+         Debug\posture.obj
+         Debug\quaternion.obj
+         Debug\skeleton.obj
+         Debug\transform.obj
+         Debug\vector.obj
+         interpolate.vcxproj -> D:\DC\Github\Computer-Animation\Motion Capture Interpolation\IDE-starter\VS2010\Debug\interpolate.exe
+     1>Done Building Project "D:\DC\Github\Computer-Animation\Motion Capture Interpolation\IDE-starter\VS2010\interpolate\interpolate.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.95
